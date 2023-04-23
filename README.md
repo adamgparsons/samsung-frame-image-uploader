@@ -7,7 +7,7 @@ Inspired by the [ow/samsung-frame-art](https://github.com/ow/samsung-frame-art) 
 ## Installation
 
 1.  Clone this repository or download the `frame_tv_image.py` script.
-2.  Install the necessary dependencies by running `pip install -r requirements.txt`.
+2.  Install the necessary dependencies by running `pip3 install -r requirements.txt`.
 
 ## Usage
 
@@ -15,7 +15,7 @@ Inspired by the [ow/samsung-frame-art](https://github.com/ow/samsung-frame-art) 
 2.  Open the `frame_tv_image.py` script in a text editor.
 3.  Replace the `'192.168.68.100'` string in line 33 with the IP address of your Samsung Frame TV. This IP address should be the local IP address of your TV on your home network. You can find the IP address in the TV's settings or by checking your router's connected devices list.
 4.  Save the modified `frame_tv_image.py` script.
-5.  Run the `frame_tv_image.py` script in a terminal or command prompt.
+5.  Run the `frame_tv_image.py` script in a terminal or command prompt with `python3 frame_tv_image.py`.
 6.  Enter the URL of the image you want to upload when prompted.
 7.  The image will be uploaded to the TV and displayed in Art Mode.
 
