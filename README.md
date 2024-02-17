@@ -13,7 +13,7 @@ Inspired by the [ow/samsung-frame-art](https://github.com/ow/samsung-frame-art) 
 
 1.  Ensure that your Samsung Frame TV is turned on and connected to the same network as the computer running this script.
 2.  Open the `frame_tv_image.py` script in a text editor.
-3.  Replace the `'192.168.68.100'` string in line 33 with the IP address of your Samsung Frame TV. This IP address should be the local IP address of your TV on your home network. You can find the IP address in the TV's settings or by checking your router's connected devices list.
+3.  Replace the `'192.168.68.100'` string in line 81 with the IP address of your Samsung Frame TV. This IP address should be the local IP address of your TV on your home network. You can find the IP address in the TV's settings or by checking your router's connected devices list.
 4.  Save the modified `frame_tv_image.py` script.
 5.  Run the `frame_tv_image.py` script in a terminal or command prompt with `python3 frame_tv_image.py`.
 6.  Enter the URL of the image you want to upload when prompted.
